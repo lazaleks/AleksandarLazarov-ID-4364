@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\bin\Debug\netcoreapp3.1\Midterm.Core.deps.json
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\bin\Debug\netcoreapp3.1\Midterm.Core.dll
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\obj\Debug\netcoreapp3.1\Midterm.Core.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\obj\Debug\netcoreapp3.1\Midterm.Core.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\obj\Debug\netcoreapp3.1\Midterm.Core.AssemblyInfo.cs
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\bin\Debug\netcoreapp3.1\Midterm.Core.runtimeconfig.json
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\bin\Debug\netcoreapp3.1\Midterm.Core.runtimeconfig.dev.json
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\obj\Debug\netcoreapp3.1\Midterm.Core.genruntimeconfig.cache
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\bin\Debug\netcoreapp3.1\Midterm.Core.pdb
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\obj\Debug\netcoreapp3.1\Midterm.Core.dll
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\obj\Debug\netcoreapp3.1\Midterm.Core.pdb
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\bin\Debug\netcoreapp3.1\midTerm.Data.dll
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\bin\Debug\netcoreapp3.1\midTerm.Data.pdb
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\obj\Debug\netcoreapp3.1\Midterm.Core.csproj.CopyComplete
+C:\Users\Igor\Desktop\IS Midterm\Midterm\Midterm.Core\obj\Debug\netcoreapp3.1\Midterm.Core.csproj.CoreCompileInputs.cache

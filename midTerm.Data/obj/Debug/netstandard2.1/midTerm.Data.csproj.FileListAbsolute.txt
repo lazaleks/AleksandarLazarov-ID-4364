@@ -1,0 +1,9 @@
+C:\Users\Igor\Desktop\IS Midterm\Midterm\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.deps.json
+C:\Users\Igor\Desktop\IS Midterm\Midterm\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.dll
+C:\Users\Igor\Desktop\IS Midterm\Midterm\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\IS Midterm\Midterm\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\IS Midterm\Midterm\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.AssemblyInfo.cs
+C:\Users\Igor\Desktop\IS Midterm\Midterm\midTerm.Data\bin\Debug\netstandard2.1\midTerm.Data.pdb
+C:\Users\Igor\Desktop\IS Midterm\Midterm\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.dll
+C:\Users\Igor\Desktop\IS Midterm\Midterm\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.pdb
+C:\Users\Igor\Desktop\IS Midterm\Midterm\midTerm.Data\obj\Debug\netstandard2.1\midTerm.Data.csproj.CoreCompileInputs.cache
